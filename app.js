@@ -17,7 +17,7 @@ while (chute != SecretNum){
         if (chute < SecretNum){
             alert(`O número secreto é maior que ${chute}`)
         } else {
-            alert(`O número secreto é menor que ${chute}`)
+            alert(`O número secret é menor que ${chute}`)
         }  
         tentativas ++;      
     }
